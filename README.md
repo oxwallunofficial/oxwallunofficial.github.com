@@ -15,7 +15,12 @@ Cover most basic things such as fixing the PHP7 compatibility issues that has be
 - Document Oxwall features for users
 - Provide tutorials and guidelines for new users
 
+## Version Release
+
 ## Roadmap
+Monitor project progress and actibities.
+
+## Resources
 
 ## Collaborators
 - Ebenezer Obasi
@@ -23,3 +28,5 @@ Cover most basic things such as fixing the PHP7 compatibility issues that has be
 - Senior Developer
 - Brutus
 - You? If you are interested in collaborating, leave a response here or send an email to oxwallunofficial@gmail.com. You can also chip in your ideas in this thread and tell us how best you think we can make this a reality.
+
+## Support
